@@ -99,7 +99,7 @@ A tela de ajuda funciona como um guia de uso do aplicativo, explicando de forma 
 
 A tela de informações apresenta uma visão geral completa sobre o desenvolvimento do aplicativo. Ela é organizada por tópicos, oferecendo ao usuário mais transparência sobre os objetivos e o processo de criação do Química Digital.
 
-<img src="imgs/informações.jpg" alt="Bloqueio do Windows" width="400">
+<img src="imgs/informações.jpg" alt="Tela Informações" width="400">
 
 <br>
 <br>
@@ -108,4 +108,4 @@ A tela de informações apresenta uma visão geral completa sobre o desenvolvime
 
 O Logical Math é uma funcionalidade complementar integrada ao aplicativo, acessível por meio da barra lateral. Trata-se de um módulo matemático completo que permite realizar diversos tipos de cálculos envolvendo múltiplas variáveis, voltado especialmente para estudantes.
 
-<img src="imgs/logical math.jpg" alt="Bloqueio do Windows" width="400">
+<img src="imgs/logical math.jpg" alt="Tela Logical Math" width="400">
