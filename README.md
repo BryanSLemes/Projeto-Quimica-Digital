@@ -42,7 +42,7 @@ Na tela inicial, há uma barra de pesquisa onde é possível buscar elementos qu
 
 Ao encontrar correspondência, o aplicativo redireciona o usuário para a página do elemento correspondente.
 
-<img src="imgs/principal.jpg" alt="Tela Pesquisa Principal" width="400">
+<img src="imgs/principal.jpg" alt="Tela Pesquisa Principal" width="250">
 
 <br>
 <br>
@@ -57,7 +57,7 @@ Nessa tela, os elementos são organizados visualmente por famílias e blocos. Ca
 
 Ao tocar em um elemento, o usuário é redirecionado para sua respectiva página de informações.
 
-<img src="imgs/visual.jpg" alt="Tela Pesquisa Visual" width="400">
+<img src="imgs/visual.jpg" alt="Tela Pesquisa Visual" width="250">
 
 <br>
 <br>
@@ -81,7 +81,7 @@ Cada elemento químico apresenta as seguintes informações:
 
 <br>
 
-<img src="imgs/elemento.jpg" alt="Tela Elemento" width="400">
+<img src="imgs/elemento.jpg" alt="Tela Elemento" width="250">
 
 <br>
 <br>
@@ -90,7 +90,7 @@ Cada elemento químico apresenta as seguintes informações:
 
 A tela de ajuda funciona como um guia de uso do aplicativo, explicando de forma simples os métodos de busca e funcionalidades disponíveis.
 
-<img src="imgs/ajuda.jpg" alt="Tela Ajuda" width="400">
+<img src="imgs/ajuda.jpg" alt="Tela Ajuda" width="250">
 
 <br>
 <br>
@@ -99,7 +99,7 @@ A tela de ajuda funciona como um guia de uso do aplicativo, explicando de forma 
 
 A tela de informações apresenta uma visão geral completa sobre o desenvolvimento do aplicativo. Ela é organizada por tópicos, oferecendo ao usuário mais transparência sobre os objetivos e o processo de criação do Química Digital.
 
-<img src="imgs/informações.jpg" alt="Tela Informações" width="400">
+<img src="imgs/informações.jpg" alt="Tela Informações" width="250">
 
 <br>
 <br>
@@ -108,4 +108,4 @@ A tela de informações apresenta uma visão geral completa sobre o desenvolvime
 
 O Logical Math é uma funcionalidade complementar integrada ao aplicativo, acessível por meio da barra lateral. Trata-se de um módulo matemático completo que permite realizar diversos tipos de cálculos envolvendo múltiplas variáveis, voltado especialmente para estudantes.
 
-<img src="imgs/logical math.jpg" alt="Tela Logical Math" width="400">
+<img src="imgs/logical math.jpg" alt="Tela Logical Math" width="250">
